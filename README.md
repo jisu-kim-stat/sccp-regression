@@ -34,15 +34,3 @@ The calibration set is held out and used exclusively for conformal inference.
 
 ---
 
-## References
-
-- Jones, D. O., *et al.* (2024).
-  **Conformal Prediction for Photometric Redshift Estimation**.
-  *The Astrophysical Journal*, 974, 159.
-
-- Hyper Suprime-Cam Collaboration (2021).
-  **HSC PDR2 Photometry with Spectroscopic Redshifts**.
-  Zenodo.
-  https://doi.org/10.5281/zenodo.5528827
-
----
