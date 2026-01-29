@@ -33,4 +33,18 @@ The HSC dataset is randomly split into:
 The calibration set is held out and used exclusively for conformal inference.
 
 ---
-
+## Run Simulation
+```bash
+python scripts/run_hsc_cp_rf.py \
+  --M 100 \
+  --gamma 0.8 \
+  --Kbin 1000 \
+  --bin_mode tail \
+  --tau 10
+```
+#### Options
+-  `--M`
+- `--gamma`
+- `--Kbin`
+- `--bin_mode`
+- `--tau`
