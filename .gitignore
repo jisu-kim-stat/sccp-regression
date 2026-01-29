@@ -5,6 +5,7 @@ results/
 
 # local / misc
 __pycache__/
+*.csv
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
