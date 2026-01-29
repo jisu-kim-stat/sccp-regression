@@ -1,0 +1,11 @@
+# data & artifacts
+data/
+fig/
+results/
+
+# local / misc
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
